@@ -1,4 +1,5 @@
 import './App.css'
+import Faq from './components/Faq/Faq'
 import Banner from './components/Hero/Banner'
 import NavBar from './components/NavBar/NavBar'
 import Service from './components/Service/Service'
@@ -18,6 +19,7 @@ function App() {
         <WhoAreWe></WhoAreWe>
         <Service></Service>
         <Testimonial></Testimonial>
+        <Faq></Faq>
     </div>
   )
 }

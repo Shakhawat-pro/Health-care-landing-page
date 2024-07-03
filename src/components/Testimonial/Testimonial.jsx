@@ -23,7 +23,7 @@ const Testimonial = () => {
                     <h1 className="text-xl font-bold">Expertise and Compassion Combined</h1>
                     <p className='text-sm'>I can`t thank enough for their exceptional care. The doctors and staff showed incredible expertise and compassion throughout my treatment journey. I felt truly cared for every step of the way.</p>
                     <div className='flex gap-3'>
-                        <img className='w-12 rounded-full' src={p1} alt="" />
+                        <img className='w-12 rounded-full' src={p2} alt="" />
                         <div>
                             <h1><span className='font-bold'>Sarah,</span> IT Professional</h1>
                             <p className='text-[#FFE03D] flex'><MdOutlineStarPurple500 /><MdOutlineStarPurple500 /><MdOutlineStarPurple500 /><MdOutlineStarPurple500 /><MdOutlineStarPurple500 /></p>
@@ -34,7 +34,7 @@ const Testimonial = () => {
                     <h1 className="text-xl font-bold">Expertise and Compassion Combined</h1>
                     <p className='text-sm'>I can`t thank enough for their exceptional care. The doctors and staff showed incredible expertise and compassion throughout my treatment journey. I felt truly cared for every step of the way.</p>
                     <div className='flex gap-3'>
-                        <img className='w-12 rounded-full' src={p1} alt="" />
+                        <img className='w-12 rounded-full' src={p3} alt="" />
                         <div>
                             <h1><span className='font-bold'>Sarah,</span> IT Professional</h1>
                             <p className='text-[#FFE03D] flex'><MdOutlineStarPurple500 /><MdOutlineStarPurple500 /><MdOutlineStarPurple500 /><MdOutlineStarPurple500 /><MdOutlineStarPurple500 /></p>
