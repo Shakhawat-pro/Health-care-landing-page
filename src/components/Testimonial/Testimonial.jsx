@@ -8,7 +8,7 @@ const Testimonial = () => {
             <h2 className="border-2 bg-[#FFFFF5] font-bold w-fit border-black  rounded-full py-2 px-5">Testimonial</h2>
             <h1 className="text-4xl font-bold leading-10">What they say about us</h1>
             <div className='flex gap-5'>
-                <div className="bg-[#FFFFF5] p-5 shadow-lg space-y-5">
+                <div className="bg-[#FFFFF5] p-5 shadow-lg space-y-5 rounded-[32px]">
                     <h1 className="text-xl font-bold">Expertise and Compassion Combined</h1>
                     <p className='text-sm'>I can`t thank enough for their exceptional care. The doctors and staff showed incredible expertise and compassion throughout my treatment journey. I felt truly cared for every step of the way.</p>
                     <div className='flex gap-3'>
@@ -19,7 +19,7 @@ const Testimonial = () => {
                         </div>
                     </div>
                 </div>
-                <div className="bg-[#FFFFF5] p-5 shadow-lg space-y-5">
+                <div className="bg-[#FFFFF5] p-5 shadow-lg space-y-5 rounded-[32px]">
                     <h1 className="text-xl font-bold">Expertise and Compassion Combined</h1>
                     <p className='text-sm'>I can`t thank enough for their exceptional care. The doctors and staff showed incredible expertise and compassion throughout my treatment journey. I felt truly cared for every step of the way.</p>
                     <div className='flex gap-3'>
@@ -30,7 +30,7 @@ const Testimonial = () => {
                         </div>
                     </div>
                 </div>
-                <div className="bg-[#FFFFF5] p-5 shadow-lg space-y-5">
+                <div className="bg-[#FFFFF5] p-5 shadow-lg space-y-5 rounded-[32px]">
                     <h1 className="text-xl font-bold">Expertise and Compassion Combined</h1>
                     <p className='text-sm'>I can`t thank enough for their exceptional care. The doctors and staff showed incredible expertise and compassion throughout my treatment journey. I felt truly cared for every step of the way.</p>
                     <div className='flex gap-3'>

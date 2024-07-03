@@ -39,7 +39,7 @@ const NavBar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <button className="flex items-center gap-2 border-2 border-black py-2 px-4 rounded-xl font-medium transition-transform transform hover:scale-105">Appointment <PiArrowUpRightBold className="text-lg"/></button>
+                <button className="flex items-center gap-2 border-2 border-black py-2 px-4 rounded-xl font-medium transition-transform transform hover:scale-110">Appointment <PiArrowUpRightBold className="text-lg"/></button>
             </div>
         </div>
     );
