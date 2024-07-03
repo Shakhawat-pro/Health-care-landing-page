@@ -2,6 +2,7 @@ import './App.css'
 import Banner from './components/Hero/Banner'
 import NavBar from './components/NavBar/NavBar'
 import Status from './components/Status/Status'
+import WhoAreWe from './components/WhoAreWe/WhoAreWe'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
         <Banner></Banner>
       </div>
         <Status></Status>
+        <WhoAreWe></WhoAreWe>
     </div>
   )
 }
