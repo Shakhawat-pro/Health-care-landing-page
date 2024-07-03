@@ -1,6 +1,7 @@
 import './App.css'
 import Banner from './components/Hero/Banner'
 import NavBar from './components/NavBar/NavBar'
+import Service from './components/Service/Service'
 import Status from './components/Status/Status'
 import WhoAreWe from './components/WhoAreWe/WhoAreWe'
 
@@ -12,8 +13,9 @@ function App() {
         <NavBar></NavBar>
         <Banner></Banner>
       </div>
-        <Status></Status>
+        <Status ></Status>
         <WhoAreWe></WhoAreWe>
+        <Service></Service>
     </div>
   )
 }

@@ -27,11 +27,11 @@ const NavBar = () => {
                     </div>
                     <ul
                         tabIndex={0}
-                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
+                        className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow ">
                         {NavLinks}
                     </ul>
                 </div>
-                <a className="text-xl"><img src={logo} alt="" /></a>
+                <a className="text-xl transition-transform transform hover:scale-105"><img src={logo} alt="" /></a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 text-base ">
@@ -39,7 +39,7 @@ const NavBar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <button className="flex items-center gap-2 border-2 border-black py-2 px-4 rounded-xl font-medium">Appointment <PiArrowUpRightBold className="text-lg"/></button>
+                <button className="flex items-center gap-2 border-2 border-black py-2 px-4 rounded-xl font-medium transition-transform transform hover:scale-105">Appointment <PiArrowUpRightBold className="text-lg"/></button>
             </div>
         </div>
     );
