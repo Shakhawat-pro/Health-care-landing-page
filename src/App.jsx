@@ -3,6 +3,7 @@ import Banner from './components/Hero/Banner'
 import NavBar from './components/NavBar/NavBar'
 import Service from './components/Service/Service'
 import Status from './components/Status/Status'
+import Testimonial from './components/Testimonial/Testimonial'
 import WhoAreWe from './components/WhoAreWe/WhoAreWe'
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <Status ></Status>
         <WhoAreWe></WhoAreWe>
         <Service></Service>
+        <Testimonial></Testimonial>
     </div>
   )
 }
