@@ -1,5 +1,6 @@
 import './App.css'
 import Faq from './components/Faq/Faq'
+import Footer from './components/Footer/Footer'
 import Banner from './components/Hero/Banner'
 import NavBar from './components/NavBar/NavBar'
 import Offer from './components/Offer/Offer'
@@ -24,6 +25,7 @@ function App() {
         <div className='bgGrid2 py-10'>
           <Offer></Offer>
         </div>
+        <Footer></Footer>
     </div>
   )
 }
