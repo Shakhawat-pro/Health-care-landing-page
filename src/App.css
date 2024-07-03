@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.inter{
+    font-family: "Inter", sans-serif;
+}
+.bgGrid2 {
+    background-image: 
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.747), rgba(85, 85, 85, 0.425) 25%, rgba(85, 85, 85, 0.425) 75%, rgba(255, 255, 255, 0.747)), /* Transparent to black to transparent gradient with gradual change */
+    url(./assets/image/FramegridBG.png); 
+    width: 100;
+    background-size: contain; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+
+
+
+
+
+
+
+
+
